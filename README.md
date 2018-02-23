@@ -10,7 +10,7 @@ This file 'README.md' explains how the script 'run_analysis.R' works to prepare 
 1. One tidy data set merged from the train and test data of the original data set.
 2. Another data set based on the before mentioned set with averages of the variables per person and activity.
 
-## Description ot the transformation script
+## Description ot the transformation script 'run_analysis.R'
 
 The transformation script 'run_analysis.R' performes the following steps to transform the original data set to the prepare both above described tidy data sets:
 
